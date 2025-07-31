@@ -116,7 +116,7 @@ If you wish to run the binary directly with custom input/output files, you can u
 
 ```bash
 - Copy code
-./bin/imageRotationNPP --input data/Lena.png --output data/Lena_harrisFilter.exr
+./bin/imageRotationNPP --input data/1.5.01.pgm --output data/1.5.01_harrisFilter.exr
 ```
 
 - Cleaning Up
