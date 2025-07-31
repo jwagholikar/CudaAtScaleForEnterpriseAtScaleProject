@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the use of NVIDIA Performance Primitives (NPP) library with CUDA to perform edge detection and replication of the image. The goal is to utilize GPU acceleration to efficiently detect edges and corners of a given image by leveraging the computational power of modern GPUs. The project is a part of the CUDA at Scale for the Enterprise course and serves as a template for understanding how to implement basic image processing operations using CUDA and NPP.
+This project demonstrates the use of NVIDIA Performance Primitives (NPP) library with CUDA to perform edge detection and replication of the image. The goal is to utilize GPU acceleration to efficiently detect edges and corners of a given image by leveraging the computational power of modern GPUs. The project is a part of the CUDA at Scale for the Enterprise course and serves as an example for understanding how to implement basic image processing operations using CUDA and NPP.
 
 ## Code Organization
 
